@@ -37,7 +37,7 @@ Aqui você encontrará uma coleção organizada de exercícios práticos, que v�
 
 ## Contato
 
-📬 Vamos nos conectar?
+📬 Vamos nos conectar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Mesquita-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-mesquita-07526334a)  
 [![Gmail](https://img.shields.io/badge/E--mail-amarthurmesquita11@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:arthurmesquita.dev@gmail.com)
