@@ -1,41 +1,42 @@
-# 📚 Sistema de Notas em C
+# Repositório de Exercícios em C
 
-Este é um pequeno projeto em linguagem C que simula um sistema de cadastro de alunos, cálculo de médias e exibição de situação final (aprovado ou reprovado). Ideal para iniciantes que estão aprendendo os fundamentos da linguagem C, como estruturas, vetores e controle de fluxo.
+Bem-vindo ao meu **repositório de exercícios em linguagem C**! 🎉
 
----
-
-## ✨ Funcionalidades
-
-- Cadastro de múltiplos alunos
-- Entrada das duas notas por aluno
-- Cálculo automático da média
-- Exibição da situação: ✅ Aprovado ou ❌ Reprovado
+Aqui você encontrará uma coleção organizada de exercícios práticos, que vão desde os conceitos básicos até tópicos mais avançados da linguagem C. O objetivo é dividir meus aprendizados com programadores que queiram reforçar suas habilidades e entender melhor essa linguagem fundamental.
 
 ---
 
-## 💡 Exemplo de uso
+## O que tem aqui?
 
-```bash
-Quantos alunos deseja cadastrar? 2
+- Exercícios sobre estruturas de controle (if, switch, loops)
+- Manipulação de arrays e strings
+- Funções e recursão
+- Estruturas e ponteiros
+- Manipulação de arquivos
+- Projetos práticos para consolidar o aprendizado
 
---- Aluno 1 ---
-Nome: Ana
-Nota 1: 7.5
-Nota 2: 8.0
+---
 
---- Aluno 2 ---
-Nome: João
-Nota 1: 4.0
-Nota 2: 5.0
+## Dicas para estudar C
 
-======= RELATÓRIO FINAL =======
+- Pratique sempre escrevendo código, não só lendo.
+- Tente entender como a memória é gerenciada.
+- Teste seus programas com diferentes entradas.
+- Leia a documentação oficial e livros recomendados.
+- Não tenha medo de errar — erros fazem parte do aprendizado!
 
-Aluno: Ana
-Notas: 7.5, 8.0
-Média: 7.8
-Situação: ✅ Aprovado
+---
 
-Aluno: João
-Notas: 4.0, 5.0
-Média: 4.5
-Situação: ❌ Reprovado
+## Por que aprender C?
+
+- C é a base para muitas outras linguagens de programação.
+- Entender C ajuda a compreender como o computador realmente funciona.
+- Excelente para quem quer trabalhar com sistemas embarcados, desenvolvimento de sistemas operacionais e aplicações de alta performance.
+
+---
+
+## Contato
+
+
+
+---
