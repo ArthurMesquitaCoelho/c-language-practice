@@ -1,6 +1,6 @@
 # Repositório de Exercícios em C
 
-Bem-vindo ao meu **repositório de exercícios em linguagem C**! 🎉
+Bem-vindo ao meu **repositório de exercícios em linguagem C**! 
 
 Aqui você encontrará uma coleção organizada de exercícios práticos, que vão desde os conceitos básicos até tópicos mais avançados da linguagem C. O objetivo é dividir meus aprendizados com programadores que queiram reforçar suas habilidades e entender melhor essa linguagem fundamental.
 
